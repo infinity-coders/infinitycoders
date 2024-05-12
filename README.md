@@ -1,0 +1,2 @@
+# infinitycoders
+static website
